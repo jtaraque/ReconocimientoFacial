@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reconocimiento Facial</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">El acceso a la cámara es necesario para la detección</string>
+    <string name="no_camera_permission">Esta aplicación no puede funcionar debido a las restricciones con los permisos. La aplicación se cerrará.</string>
+    <string name="button3">Cargar imagen</string>
+    <string name="button4">Alternar cámara</string>
+
+</resources>
